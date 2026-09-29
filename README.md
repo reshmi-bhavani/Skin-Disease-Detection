@@ -17,6 +17,14 @@ The project uses a lightweight frontend architecture with **HTML, CSS, JavaScrip
 * Responsive and user-friendly interface
 * No traditional backend or database required
 
+  # Screenshots
+
+### Home Page
+![Home Page](home.png)
+
+### Prediction Result
+![Prediction Result](prediction-result.png)
+
 # Tech Stack
 
 * HTML5
